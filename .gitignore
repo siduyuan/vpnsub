@@ -1,0 +1,9 @@
+# 忽略 README（可选，如果想跟踪 README 则删除此行）
+# README.md
+
+# Git 目录
+.git/
+
+# 临时文件
+*.tmp
+*.log
